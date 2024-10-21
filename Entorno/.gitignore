@@ -1,7 +1,0 @@
-__pycache__/
-*.pyc
-*.sqlite3
-db.sqlite3
-.vscode/
-.env
-node_modules/

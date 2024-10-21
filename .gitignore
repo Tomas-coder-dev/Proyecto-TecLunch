@@ -1,0 +1,48 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# SQLite database files
+*.sqlite3
+db.sqlite3
+
+# VSCode settings
+.vscode/
+
+# Environment variable files
+.env
+
+# Node modules for frontend
+node_modules/
+
+# Build output for frontend
+# (Asegúrate de incluir esto si estás usando create-react-app)
+frontend/build/
+Administracion/frontend/build/
+Usuario/frontend/build/
+
+# Java compiled classes (Spring Boot)
+*.class
+*.jar
+*.war
+*.ear
+target/
+out/
+
+# IDE files
+*.iml
+
+# Python virtual environments
+venv/
+env/
+env.bak/
+venv.bak/
+
+# Logs
+*.log
+
+# macOS specific files
+.DS_Store
+
+# Windows specific files
+Thumbs.db
